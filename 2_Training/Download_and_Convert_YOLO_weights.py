@@ -36,7 +36,7 @@ if __name__ == "__main__":
         weights_file = "yolov3.weights"
         h5_file = "yolo.h5"
         cfg_file = "yolov3.cfg"
-        Original_URL= 'https://pjreddie.com/media/files/yolov3-tiny.weights'
+        Original_URL= 'https://pjreddie.com/media/files/yolov3.weights'
         #gdrive_id = "1ENKguLZbkgvM8unU3Hq1BoFzoLeGWvE_"
 
     else:
